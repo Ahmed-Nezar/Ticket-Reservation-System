@@ -13,7 +13,7 @@ This repository contains an implementation of a ticket reservation system deskto
 - **Kirollos Ehab** ([@KirollosEMH](https://github.com/KirollosEMH))
   
 ## Project Overview 
-The Ticket Reservation System is a comprehensive desktop application built using [Electron](https://www.electronjs.org/). It simplifies the process of booking, managing, and tracking tickets for various transportations. This system is designed to ease the reservation of a transportations like Flight, Bus and Train reservations, also this system is designed to provide users with an intuitive interface and seamless functionality for their ticket reservation needs with history of reservations and searching mechanisms. 🌍🎉🎢
+The Ticket Reservation System is a comprehensive desktop application built using [Electron](https://www.electronjs.org/). It simplifies the process of booking, managing, and tracking tickets for various transportations. This system is designed to ease the reservation of a transportations like Flight, Bus and Train reservations, also this system is designed to provide users with an intuitive interface and seamless functionality for their ticket reservation needs with history of reservations and searching mechanisms. 
 
 ### Features
 - User-friendly interface for booking tickets.
