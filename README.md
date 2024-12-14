@@ -25,12 +25,14 @@ Below is the folder structure of the project:
 
 ```
 Ticket-Reservation-System/
-├── assets/                  # Static assets like images, icons, etc.
-├── src/                     # Source code
-│   ├── main/                # Main Electron process files
-│   ├── renderer/            # Frontend code
-│   └── utils/               # Utility functions
-├── dist/                    # Built application files
+├── app/                     # Source code
+│   ├── src/                 # Main Electron process files
+│   │  ├── css/              # Source CSS files
+│   │  ├── data/             # Database files in the backend
+│   │  ├── img/              # Images used in the GUI
+│   │  ├── js/               # Javascript files for the logic of the application
+│   │  ├── *.html            # HTML files
+│   └── main.js/             # Main js file
 ├── node_modules/            # Project dependencies
 ├── package.json             # Project configuration and dependencies
 ├── README.md                # Project documentation
