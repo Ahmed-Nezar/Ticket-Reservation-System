@@ -41,7 +41,7 @@ Ticket-Reservation-System/
 
 
 
-## References 🔄🔬🌐
+## References
 - [Electron Documentation](https://www.electronjs.org/docs/latest)
 - [GitHub Repository](https://github.com/Seif-Yasser-Ahmed/Ticket-Reservation-System)
 
